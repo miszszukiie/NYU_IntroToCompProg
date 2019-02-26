@@ -1,0 +1,14 @@
+# Assignment #1: Problem #1: Variables & Print Statements
+
+# Code stating the average test scores for the Introduction to Computer Programming course
+
+course = '"Introduction to Computer Programming":' # name of course
+
+test_one = "95" # average test 1 scores
+test_two = "76" # average test 2 scores
+test_three = "87" # average test 3 scores
+
+print ("Average Test Scores For", course) # print average test scores for course
+print ("- Test #1:", test_one) # print test #1 score
+print ("- Test #2:", test_two) # print test #2 score
+print ("- Test #3:", test_three) # print test #3 score
