@@ -2,7 +2,8 @@
 # March 2, 2015
 # Assignment #4: Problem #2: Pick Up Sticks
 
-# prompts user for number of sticks to start with, then 2 players will take turns removing sticks from table, player to remove last stick loses
+# prompts user for number of sticks to start with, then 2 players will take turns removing sticks from table, 
+# player to remove last stick loses
 
 # input amount of sticks to start with
 while True:
