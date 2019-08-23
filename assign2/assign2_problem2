@@ -2,7 +2,8 @@
 # February 11, 2015
 # Assignment #2: Problem #2: Grade Calculator
 
-# ask user for name and course, the weight of tests and 3 scores, the weight of hw and 3 scores, provide averages and final grade
+# ask user for name and course, the weight of tests and 3 scores, the weight of hw and 3 
+# scores, provide averages and final grade
 
 # ask for user's name and name of course
 name = input("What is your name? ")
